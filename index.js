@@ -118,13 +118,12 @@ const teamMember = () => {
           if (addPeople === "yes") {
             teamMember();
           } else {
+            infoData.push(roleCard(newPerson));
             createHtml();
             endPage();
           }
 
           infoData.push(roleCard(newPerson));
-
-          //   team.push(newPerson);
         });
 
       // html creation
