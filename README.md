@@ -1,41 +1,42 @@
 # team-profile-generator
 
-  ## Description
+## Description
 
-  This app is a team profile generator.
+This app is a team profile generator.
 
-  ## Table Of Contents
+## Table Of Contents
 
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Credits](#credits)
-  * [License](#rights)
-  
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#rights)
 
-  ## Installation
+## Installation
 
-  Clone this repo onto your local environment, and run npm install.
+Clone this repo onto your local environment, and run npm install.
 
-  ## Usage
+## Usage
 
-  This app generates a team profile. Run node index.js, and answer the prompted questions. The app will give you an HTML  file of your team.
-  
-  https://github.com/Sean-Sanneman/team-profile-generator/blob/master/dist/assets/screenshot_team1.png
-  
-  https://github.com/Sean-Sanneman/team-profile-generator/blob/master/dist/assets/screenshot_team2.png
+This app generates a team profile. Run node index.js, and answer the prompted questions. The app will give you an HTML file of your team.
 
-  ## Credits
+https://github.com/Sean-Sanneman/team-profile-generator/blob/master/dist/assets/screenshot_team1.png
 
-  Sean Sanneman https://github.com/Sean-Sanneman
+https://github.com/Sean-Sanneman/team-profile-generator/blob/master/dist/assets/screenshot_team2.png
 
-  ## License
+https://www.youtube.com/watch?v=stVsf147sl8
 
-  Use is permitted under the rights granted by the following license:
+## Credits
 
-  MIT License
+Sean Sanneman https://github.com/Sean-Sanneman
 
-  ## GitHub username:
-  sean-sanneman
+## License
 
-  ## You can contact me at seandafydd@gmail.com if you have any questions.
+Use is permitted under the rights granted by the following license:
 
+MIT License
+
+## GitHub username:
+
+sean-sanneman
+
+## You can contact me at seandafydd@gmail.com if you have any questions.
