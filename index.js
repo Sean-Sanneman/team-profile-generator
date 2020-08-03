@@ -49,7 +49,6 @@ function roleCard(person) {
         </ul>
         </div>`;
   }
-  console.log(info);
   return info;
 }
 
@@ -87,7 +86,6 @@ const teamMember = () => {
       } else {
         specInfo = "office";
       }
-      console.log("inside first callback");
       inquirer
         .prompt([
           {
@@ -143,15 +141,12 @@ const teamMember = () => {
         infoData.join("\n");
         let content = html.concat(infoData);
         content += endPage();
-        console.log(content);
         fs.writeFile("./dist/team.html", content, (err) => {
           if (err) {
             throw new Error(err);
           }
           console.log("appended to file");
         });
-
-        console.log("start");
       }
     });
 };

@@ -18,7 +18,8 @@
 }
 
 .navbar {
-  border-bottom: black;
+  margin: 12px;
+  border: black;
   border-style: solid;
-  border-width: 0 0 3px 0;
+  border-width: 0 3px 3px 3px;
 }
