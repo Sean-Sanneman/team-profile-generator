@@ -19,6 +19,10 @@
   ## Usage
 
   This app generates a team profile. Run node index.js, and answer the prompted questions. The app will give you an HTML  file of your team.
+  
+  https://github.com/Sean-Sanneman/team-profile-generator/blob/master/dist/assets/screenshot_team1.png
+  
+  https://github.com/Sean-Sanneman/team-profile-generator/blob/master/dist/assets/screenshot_team2.png
 
   ## Credits
 
