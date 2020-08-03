@@ -1,20 +1,17 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
-const path = require("path");
+
 let infoData = [];
 
 const Engineer = require("./lib/Engineer");
 const Intern = require("./lib/Intern");
 const Manager = require("./lib/Manager");
 
-// const team = [];
-
 function template() {
   teamMember();
 }
 
 function roleCard(person) {
-  console.log("Inside rolecard promise");
   const name = person.getName();
   const id = person.getId();
   const email = person.getEmail();
@@ -167,14 +164,5 @@ const endPage = () => {
     </html>
     `;
 };
-
-// add role cards
-
-// fs.appendFile("./dist/team.html", info, (err) => {
-//     if (err) {
-//       throw new Error(err);
-//     }
-//     console.log("appended to file");
-//   });
 
 template();
