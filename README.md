@@ -23,7 +23,7 @@ https://github.com/Sean-Sanneman/team-profile-generator/blob/master/dist/assets/
 
 https://github.com/Sean-Sanneman/team-profile-generator/blob/master/dist/assets/screenshot_team2.png
 
-https://www.youtube.com/watch?v=stVsf147sl8
+https://www.youtube.com/watch?v=rLofVE2j93o&feature=youtu.be
 
 ## Credits
 
